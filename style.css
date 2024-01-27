@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "General sans Medium" ,
+    "General Sans Regular";
+    background-color: black;
+    text-decoration: none;
+}
+#hero{
+    width: 100vw;
+    height: 100vh;
+}
+#navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem;
+    font-size: 1.25em;
+    color: white;
+}
+a{
+    color: white;
+}
+
+#hero-hdng{
+    margin-top: 5rem;
+    /* opacity: 0.6; */
+    
+}
+#dgn,#PRODUCT{
+    margin-left: 2rem;
+    font-size: 7em;
+    line-height: .9;
+    color: rgba(246, 244, 244, 0.6);
+}
+#dgn{
+    margin-left: 7rem;
+}
+
+
